@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Generative Adversarial Networks 
 - 💞️ I’m looking to collaborate on asking stupid questions 
 - 📫 How to reach me https://www.linkedin.com/in/peter-lerner-27868392/
-- My current project /minoann is an outgrowth of financial time series research with c-GAN 
+- My current project https://github.com/pblerner18/minoann is an outgrowth of financial time series research with c-GAN. There I try to establish affinities between languages based on their statistical characteristics. 
 
 <!---
 pblerner18/pblerner18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
